@@ -8,7 +8,7 @@
 <!--Domain-->
 <url>
   <loc>https://wazzap.org/</loc>
-  <lastmod>2024-12-11</lastmod>
+  <lastmod>2024-12-12</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.00</priority>
 </url>
@@ -16,7 +16,7 @@
 <!--index.html-->
 <url>
   <loc>https://wazzap.org/index.html</loc>
-  <lastmod>2024-12-11</lastmod>
+  <lastmod>2024-12-12</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.00</priority>
 </url>
@@ -60,6 +60,14 @@
   <lastmod>2024-12-11</lastmod>
   <changefreq>yearly</changefreq>
   <priority>0.60</priority>
+</url>
+
+<!--404.html-->
+<url>
+  <loc>https://wazzap.org/404.html</loc>
+  <lastmod>2024-12-12</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.40</priority>
 </url>
 
 </urlset>
